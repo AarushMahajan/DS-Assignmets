@@ -1,13 +1,5 @@
 package github;
 
-public class Queueusing2stacks {
-
-	Node head;
-	static class Node{
-		int data;
-		Node next;package queue;
-import java.util.*;
-
 public class QueueUsing2Stack {
 	
 	static Stack<Integer> s = new Stack<Integer>();
